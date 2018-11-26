@@ -1,6 +1,10 @@
 package com.company;
 
 public class Runner {
+    /*
+    We were given runner code however it did not include  next player or the gameOver functionality
+
+     */
     public static void main(String[] args) {
         TokenPass game1 = new TokenPass(6);
 

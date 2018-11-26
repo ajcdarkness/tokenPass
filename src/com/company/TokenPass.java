@@ -1,6 +1,6 @@
 package com.company;
 
-public class tokenPass {
+public class TokenPass {
     private int[] board;
     private int currentPlayer;
     public void TokenPass(int playerCount){
